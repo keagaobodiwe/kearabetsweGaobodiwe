@@ -21,6 +21,20 @@ I believe in continuous learning and am currently exploring:
 ## 🛠️ Projects
 
 Here are some of the things I’ve worked on:
+🌐 Socials:
+LinkedIn email
+
+💻 Tech Stack:
+Portfolio
+
+📊 GitHub Stats:
+
+
+
+
+
+
+
 
 - Simple websites using **HTML and CSS**
 - Learning projects as I progress in **JavaScript and Python**
